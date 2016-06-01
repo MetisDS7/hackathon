@@ -2,7 +2,7 @@
 A compilation of material from the data science pipeline hackathon
 
 
-### Data Acquisition
+### [Data Acquisition](https://github.com/patricknieto/hackathon/tree/master/Acquisition)
 (Lucia, Zakkir, Brian)
 
 -
@@ -12,12 +12,12 @@ A compilation of material from the data science pipeline hackathon
 
 -
 
-### Data Exploration
+### [Data Exploration](https://github.com/patricknieto/hackathon/tree/master/Data_Exploration)
 (Patrick, Elliot, Iain)
 
 -
 
-### Feature/Model Selection
+### [Feature/Model Selection](https://github.com/patricknieto/hackathon/tree/master/Model%20Selection)
 (Melanie, Anne)
 
 -
@@ -27,7 +27,7 @@ A compilation of material from the data science pipeline hackathon
 
 -
 
-### Presenting/Deploying Results
+### [Presenting/Deploying Results](https://github.com/patricknieto/hackathon/tree/master/Deployment)
 (Chris, Hyatt)
 
 -
