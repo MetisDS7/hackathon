@@ -1,0 +1,21 @@
+# Theory, Education and Practice
+This is a compilation of resources intended for learning and practicing theories, concepts and techniques in the field of data science.
+
+* [Flowing Data](http://flowingdata.com)
+* [DataQuest](https://www.dataquest.io/learn)
+* [Khan Academy](https://www.khanacademy.org)
+* [Linear Algebra - MIT Math](http://math.mit.edu/~gs/linearalgebra/)
+* [Calculus - MIT](http://ocw.mit.edu/ans7870/resources/Strang/Edited/Calculus/Calculus.pdf)
+* [MIT OpenCourseWare](http://ocw.mit.edu/index.htm)
+* [The Elements of Statistical Learning](http://statweb.stanford.edu/~tibs/ElemStatLearn/)
+* [Machine Learning - Coursera](https://www.coursera.org/learn/machine-learning)
+* [Statistics - Open Intro](https://www.openintro.org/stat/textbook.php)
+* [StatSoft - Dell Software](http://www.statsoft.com/Textbook)
+* [The 37 Best Websites To Learn Something New - Maqtoob](https://entrepreneurs.maqtoob.com/the-37-best-websites-to-learn-something-new-895e2cb0cad4#.uj1c5p19n)
+*[Beginner's Guide to R - Introduction](http://www.computerworld.com/article/2497143/business-intelligence/business-intelligence-beginner-s-guide-to-r-introduction.html)
+* [R Language for Programmers - John D Cook](http://www.johndcook.com/blog/r_language_for_programmers/)
+* [Machine Learning With R: An Irresponsibly Fast Tutorial](http://will-stanton.com/machine-learning-with-r-an-irresponsibly-fast-tutorial/)
+* [Free Programming Books - Github](https://github.com/vhf/free-programming-books/blob/master/free-programming-books.md)
+* [Probability and Statistics - EBook](http://wiki.stat.ucla.edu/socr/index.php/Probability_and_statistics_EBook)
+* [Statistics Done Wrong - EBook](http://www.statisticsdonewrong.com)
+* [Concepts and Applications of Inferential Statistics](http://vassarstats.net/textbook/)
