@@ -16,3 +16,4 @@ These are links to any miscellaneous resources generally relating to data scienc
 * [Cortana Intelligence and Machine Learning Blog](https://blogs.technet.microsoft.com/machinelearning/)
 * [Arxiv - Cornell University Library](https://arxiv.org)
 * [Simply Statistics: A statistics Blog by Rafa Irizarry, Roger Peng, and Jeff Leek](http://simplystatistics.org)
+* [Google Research](http://will-stanton.com/creating-a-great-data-science-resume/)
