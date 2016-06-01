@@ -1,22 +1,22 @@
 # hackathon
-A compilation of material from our hackathon
+A compilation of material from the data science pipeline hackathon
 
 
-### Data Acquisition
-
+### Data Acquisition (Lucia, Zakkir, Brian)
 -
 
-### Reproducing, Cleaning/Wrangling
+### Reproducing, Cleaning/Wrangling (David, Stew, Will)
 -
 
-### Data Exploration
+### Data Exploration (Patrick, Elliot, Iain)
 -
 
-### Feature/Model Selection
+### Feature/Model Selection (Melanie, Anne)
 -
 
-### Model Testing/Evaluation
+### Model Testing/Evaluation (Hannah, Ian, Max)
 -
 
-### Presenting/Deploying Results
+### Presenting/Deploying Results (Chris, Hyatt)
 -
+
