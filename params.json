@@ -1,0 +1,6 @@
+{
+  "name": "Hackathon",
+  "tagline": "A compilation of material from our hackathon",
+  "body": "# hackathon\r\nA compilation of material from the data science pipeline hackathon\r\n\r\n\r\n### [Data Acquisition](https://github.com/patricknieto/hackathon/tree/master/Acquisition)\r\n(Lucia, Zakkir, Brian)\r\n\r\n-\r\n\r\n### Reproducing, Cleaning/Wrangling\r\n(David, Stew, Will)\r\n\r\n-\r\n\r\n### [Data Exploration](https://github.com/patricknieto/hackathon/tree/master/Data_Exploration)\r\n(Patrick, Elliot, Iain)\r\n\r\n-\r\n\r\n### [Feature/Model Selection](https://github.com/patricknieto/hackathon/tree/master/Model%20Selection)\r\n(Melanie, Anne)\r\n\r\n-\r\n\r\n### Model Testing/Evaluation\r\n(Hannah, Ian, Max)\r\n\r\n-\r\n\r\n### [Presenting/Deploying Results](https://github.com/patricknieto/hackathon/tree/master/Deployment)\r\n(Chris, Hyatt)\r\n\r\n-\r\n\r\n",
+  "note": "Don't delete this file! It's used internally to help with page regeneration."
+}
