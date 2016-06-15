@@ -1,6 +1,7 @@
 # Datasets
 Here is a list of resources (many of them lists of resources themselves) to numerous datasets on various topics. Dive right in.
 
+* [Data is Plural Google Doc of 171 different datasets](https://docs.google.com/spreadsheets/d/1wZhPLMCHKJvwOkP4juclhjFgqIY8fQFMemwKL2c64vk/edit#gid=0)
 * [100+ Interesting Data Sets for Statistics](http://rs.io/100-interesting-data-sets-for-statistics/)
 * [Reddit Datasets](https://www.reddit.com/r/datasets)
 * [UCI Machine Learning Repository](http://archive.ics.uci.edu/ml/)
